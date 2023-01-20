@@ -7,6 +7,7 @@ Plans for Improvement:
 -  Styling of the comments
 -  Provide user options to edit saved recipes list after saving
 -  Add more content to the saved recipes table (image along with the recipe)
+-  Implentation of responsive design for devices with smaller screen sizes
 
 Extra features:
 -  Unit conversion/selection (cups to mass like kg)
